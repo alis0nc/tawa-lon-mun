@@ -2,8 +2,6 @@
 
 You can use Github Pages for deploying moonwalk for free.
 
-> If you are deploying Moonwalk on Github Pages, I recommend forking Moonwalk and change the dependency (in `moonwalk.gemspec` & `_config.yml`) from `jekyll-soopr-seo-tag` to `jekyll-seo-tag` - Github Pages only allow a specific list of gems to be installed.
-
 
 ### GitHub Pages installation
 
